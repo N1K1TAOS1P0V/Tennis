@@ -16,6 +16,7 @@ body{
 .sec--header{
     background-image: url(img/sec--header--img.svg);
     background-repeat: no-repeat;
+    background-position: center
 }
 .icon{
     display: flex;
